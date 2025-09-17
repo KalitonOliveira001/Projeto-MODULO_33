@@ -1,0 +1,7 @@
+com/seuprojeto/projetocarros/ProjetoCarrosApplication.class
+com/seuprojeto/projetocarros/model/Marca.class
+com/seuprojeto/projetocarros/model/Acessorio.class
+com/seuprojeto/projetocarros/model/Carro.class
+com/seuprojeto/projetocarros/repository/CarroRepository.class
+com/seuprojeto/projetocarros/repository/MarcaRepository.class
+com/seuprojeto/projetocarros/repository/AcessorioRepository.class
